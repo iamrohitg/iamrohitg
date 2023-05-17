@@ -1,6 +1,6 @@
 # Hello, World! 👋 I'm Rohit Ghosh 🤖
 
-I'm a sophomore in Computer Science Engineering, passionate about using data to create innovative solutions for real-world problems. Here's a little more about me:
+I'm a student in Computer Science Engineering, passionate about using data to create innovative solutions for real-world problems. Here's a little more about me:
 
 ## 🎓 Education
 - Pursuing Bacholers of Technology in Computer Science & Engineering from Government College of Engineering & Ceramic Technology
