@@ -7,8 +7,8 @@ I'm a student in Computer Science Engineering, passionate about using data to cr
 - Relevant coursework: Data Structures, Algorithms, Web Development, Machine Learning, Blockchain, Databases and Software Engineering
 
 ## 💻 Skills
-- **Languages**: C, C++, Python, SQL, HTML, CSS, JS
-- **Web Develpoment**: HTML, CSS, ReactJS, jQuery, php
+- **Languages**: C, C++, Python, SQL, HTML, CSS, JS, TS
+- **Web Develpoment**: HTML, CSS, tailwind, ReactJS, jQuery, php
 - **Blockchain**: Ethereum, Solidity, Hardhat
 - **Machine Learning**: Deep Learning, scikit-learn, TensorFlow, Keras, NLP, Computer Vision
 - **Databases**: MySQL, MongoDB, NodeJS
@@ -16,7 +16,7 @@ I'm a student in Computer Science Engineering, passionate about using data to cr
 ## 🚀 Projects
 - **Web3 Crowdfunding Platform** - FundRise is a decentralized crowdfunding platform that runs on the blockchain
 - **Chat Application** - Microsoft Teams clone built with React JS and Chat Engine
-- **To-Do List Web Application** - A simple to-do list web application that allows users to keep track of their tasks and priorities
+- **PG Life Web Application** - A Full-Stack Web Application developed using HTML, CSS, Bootstrap 5, JavaScript, AJAX, PHP, MySQL.
 <!-- - **365DataScience Challenge** - Analytics and visualization of a database and building an ML model to predict new paid subscribers -->
 <!-- - **Almad (Web App)** - Online learning platform -->
 
